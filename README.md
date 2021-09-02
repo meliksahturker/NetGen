@@ -5,6 +5,8 @@ This implementation is based on NetworkX.
 
 Example usage:
 
+    from NetworkGenerator import Network
+
     net = Network()
     net.build_layer_one(1000, 2.52, 2, 0.5)
     net.build_layer_two(0.21, 10, 5, 0, 1000, 0.4)
