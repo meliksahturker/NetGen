@@ -1,5 +1,5 @@
 # NetGen
-Network Generator framework that simulates daily interactions in an urban town
+Network Generator framework for epidemics, that simulates daily interactions in an urban town
 
 This is the implementation of **Multi-layer network approach in modeling epidemics in an urban town** which can be found on https://arxiv.org/abs/2109.02272
 
