@@ -10,7 +10,7 @@ class Network:
         """
         Example usage:
         net = Network()
-        net.build_layer_one(1000, 2.52, 2, 0.5)
+        net.build_layer_one(1000, 3.9, 1.2, 1.7, 0.5)
         net.build_layer_two(0.21, 10, 5, 0, 1000, 0.4)
         net.build_layer_three(0.33, 10, 5, 0, 1000, 0.3)
         net.build_layer_four(0.25, 20, 2, 0, 1000, 3, 0.2)
